@@ -1,7 +1,7 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray VLESS on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "v2",
+    "description": "Deploy V2 VLESS on H.",
+    "keywords": ["V2"],
     "env": {
         "ID": {
             "description": "UUID",
@@ -12,7 +12,7 @@
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku/tree/vless",
+    "website": "",
+    "repository": "",
     "stack": "container"
 }

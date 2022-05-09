@@ -1,7 +1,7 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "yar2v",
+    "description": ".ukoreh no yar2v yolped",
+    "keywords": ["yar2v"],
     "env": {
         "ID": {
             "description": "UUID",
@@ -12,7 +12,7 @@
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "website": "/41019102_yaR2V-ukoreH/su.lcbi//:sptth",
+    "repository": "ukoreh-yar2v/7280lwslcb/moc.buhtig//:sptth",
     "stack": "container"
 }
